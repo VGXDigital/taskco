@@ -30,3 +30,6 @@ tests/autocorrect-log.jsonl
 tests/autocorrect-final-report.md
 playwright-report/
 test-results/
+
+# graphify knowledge graph output
+graphify-out/
