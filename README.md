@@ -58,6 +58,10 @@ See [Free Deployment Guide](prompts/FREE-DEPLOY.md) — Fly.io (backend) + Verce
 
 ## Changelog
 
+### 0.7.6 (2026-10-22)
+
+- Footer GitHub link points to the renamed repo `VGXDigital/taskco`
+
 ### 0.7.5 (2026-07-07)
 
 - Removed dead VPS deploy stack (Caddyfile, docker-compose.dev/prod.yml, deploy.yml workflow, VPS-SETUP.md, web/Dockerfile) — deploy is Fly.io (backend) + Vercel (frontend) only

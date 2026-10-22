@@ -35,7 +35,7 @@ export function VGXFooter() {
         {' '}• v{version}
       </p>
       <a
-        href="https://github.com/VGXDigital/VGXTaskCo"
+        href="https://github.com/VGXDigital/taskco"
         target="_blank"
         rel="noopener noreferrer"
         aria-label="View source on GitHub"
