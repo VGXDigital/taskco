@@ -58,6 +58,10 @@ See [Free Deployment Guide](prompts/FREE-DEPLOY.md) — Fly.io (backend) + Verce
 
 ## Changelog
 
+### 0.7.7 (2026-10-25)
+
+- Playwright 1.59.1 → 1.64.1 so the Keep-Alive E2E job runs on the Ubuntu 26.04 `ubuntu-latest` runner
+
 ### 0.7.6 (2026-10-22)
 
 - Footer GitHub link points to the renamed repo `VGXDigital/taskco`
